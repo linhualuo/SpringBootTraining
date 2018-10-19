@@ -1,4 +1,4 @@
-package com.hualuo.gitlab;
+package com.hualuo.service.gitlab;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
