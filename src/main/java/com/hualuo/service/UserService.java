@@ -1,6 +1,6 @@
 package com.hualuo.service;
 
-import com.hualuo.model.User;
+import com.hualuo.model.entity.User;
 
 import java.util.List;
 

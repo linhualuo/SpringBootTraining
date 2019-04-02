@@ -1,6 +1,6 @@
 package com.hualuo.dao;
 
-import com.hualuo.model.User;
+import com.hualuo.model.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**

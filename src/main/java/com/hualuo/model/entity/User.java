@@ -1,4 +1,4 @@
-package com.hualuo.model;
+package com.hualuo.model.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

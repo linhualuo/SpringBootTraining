@@ -1,7 +1,7 @@
 package com.hualuo.service.impl;
 
 import com.hualuo.dao.UserDao;
-import com.hualuo.model.User;
+import com.hualuo.model.entity.User;
 import com.hualuo.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 

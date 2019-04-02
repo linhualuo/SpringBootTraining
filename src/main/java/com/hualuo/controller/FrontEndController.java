@@ -1,6 +1,6 @@
 package com.hualuo.controller;
 
-import com.hualuo.model.User;
+import com.hualuo.model.entity.User;
 import com.hualuo.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
